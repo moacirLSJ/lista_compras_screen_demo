@@ -34,7 +34,7 @@ class HomePage extends StatelessWidget {
 
           children: [
             Container(
-              margin: const EdgeInsets.only(top: 20),
+              margin: const EdgeInsets.only(top: 22),
               height: 80,
               // child: const Expanded(child: SearchBarHome()),
               child: const SearchBarHome(),
