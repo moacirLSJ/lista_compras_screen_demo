@@ -24,8 +24,8 @@ class MyApp extends StatelessWidget {
         title: 'Lista de Compras',
         debugShowCheckedModeBanner: false,
         theme: AppTheme(context).defaultTheme,
-        // home: const HomePage(),
-        home: const TestPage(),
+        home: const HomePage(),
+        // home: const TestPage(),
     );
   }
 }
